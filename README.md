@@ -1,8 +1,8 @@
 # Sorter
-Header file that includes a sorting class that can take in arrays and vectors of any data type or object
-
 Wilson Chen June 2021
-Header file containing a bunch of sorting algorithms.
+
+Header file that includes a sorting class that can take in arrays and vectors of any data type or object.
+It contains a bunch of sorting algorithms.
 This was intended to be a practice header file, but maybe
 I can use it in the future 😳
 
